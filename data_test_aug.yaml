@@ -1,0 +1,16 @@
+path: D:\CV\NEU-DET\NEU-DET
+
+train: train/images
+val: val/images
+
+test: test_aug_lbl/images
+
+nc: 6
+names:
+  - crazing
+  - inclusion
+  - patches
+  - pitted_surface
+  - rolled-in_scale
+  - scratches
+
