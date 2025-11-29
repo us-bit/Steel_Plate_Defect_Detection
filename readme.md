@@ -276,11 +276,11 @@ Recall:    0.8154
 
 ### 9.1 混淆矩阵（YOLOv8s, Val 集）
 
-![Confusion Matrix](figures\confusion_matrix.png)
+![Confusion Matrix](figures/confusion_matrix.png)
 
 ### 9.2 PR 曲线
 
-![PR Curve](figures\BoxPR_curve.png)
+![PR Curve](figures/BoxPR_curve.png)
 
 ### 9.3 测试集检测样例
 
